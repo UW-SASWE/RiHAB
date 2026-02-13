@@ -185,3 +185,4 @@ cython_debug/
 *.log
 data/
 .gpkg
+archive/
